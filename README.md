@@ -1,15 +1,15 @@
 [![Header](https://firebasestorage.googleapis.com/v0/b/padelstore-ebd32.appspot.com/o/quiqueSupertrampPortfolio.png?alt=media&token=e3d3302c-7d17-4769-98df-b7a6163e67ce "Header")](https://quiquesupertramp.github.io/portfolio/)
 
-<h1 align="center">Hola 👋, Soy Quique Supertramp</h1>
-<h3 align="center">Frontend Developer</h3>
+<h1 align="center">Hola 👋, soy Quique Supertramp</h1>
 
 - 🌱 Estoy haciendo un curso avanzado de **ReactJS** en **LearnThisAcademy**
 - ⚡ Puedes ver mi portfolio en [https://quiquesupertramp.github.io/portfolio/](https://quiquesupertramp.github.io/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/quiquesupertramp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quiquesupertramp" height="30" width="40" /></a>
+
 <a href="https://instagram.com/quiquesupertramp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="quiquesupertramp" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/quiquesupertramp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quiquesupertramp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
