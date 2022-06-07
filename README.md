@@ -4,12 +4,6 @@
 - 🌱 Estoy haciendo un curso avanzado de **ReactJS** en **LearnThisAcademy** dónde trabajamos código limpio y el uso eficiente de la librería. Lo elegí porque entramos a fondo para entender cómo se produce la mágia por detrás a través de JavaScript.
 - ⚡ Puedes ver mi portfolio en [https://quiquesupertramp.github.io/portfolio/](https://quiquesupertramp.github.io/portfolio/)
 
-<h3 align="left">Contacta conmigo en:</h3>
-<p align="left">
-<a href="https://instagram.com/quiquesupertramp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="quiquesupertramp" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/quiquesupertramp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quiquesupertramp" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Tecnologías:</h3>
 <p align="left"> 
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -24,21 +18,15 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
    </p>
-
-<!--
-**QuiqueSupertramp/QuiqueSupertramp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![Header](https://firebasestorage.googleapis.com/v0/b/padelstore-ebd32.appspot.com/o/quiqueSupertrampPortfolio.png?alt=media&token=e3d3302c-7d17-4769-98df-b7a6163e67ce "Portfolio")](https://quiquesupertramp.github.io/portfolio/)
-
-Here are some ideas to get you started:
-### Hi there 👋
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   
+<h3 align="left">Contacta conmigo en:</h3>
+<p align="left">
+<a href="https://instagram.com/quiquesupertramp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="quiquesupertramp" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/quiquesupertramp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quiquesupertramp" height="30" width="40" /></a>
+</p>
+   
+<h3 align="left">Hobbies:</h3>
+<p>
+<img src="entrenador.jpg" height="230" alt="Quique Supertramp" title="Quique Supertramp">
+<img src="1654596757187.jpg" height="230" alt="Quique Supertramp" title="Quique Supertramp">
+</p>
