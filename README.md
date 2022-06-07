@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Quique Supertramp</h1>
+<h1 align="left">Hola 👋, soy Quique Supertramp</h1>
 
 - ✨ Soy autodidacta, responsable, detallista y leal. Y dicen que cabezón, aunque se refieren a mi perseverancia. 😄
 - 🌱 Estoy haciendo un curso avanzado de **ReactJS** en **LearnThisAcademy** dónde trabajamos código limpio y el uso eficiente de la librería. Lo elegí porque entramos a fondo para entender cómo se produce la mágia por detrás a través de JavaScript.
