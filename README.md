@@ -1,9 +1,7 @@
-[![Header](https://firebasestorage.googleapis.com/v0/b/padelstore-ebd32.appspot.com/o/quiqueSupertrampPortfolio.png?alt=media&token=e3d3302c-7d17-4769-98df-b7a6163e67ce "Header")](https://quiquesupertramp.github.io/portfolio/)
-
 <h1 align="center">Hola 👋, soy Quique Supertramp</h1>
 
 - ✨ Soy autodidacta, responsable, detallista y leal. Y dicen que cabezón, aunque se refieren a mi perseverancia. 😄
-- 🌱 Estoy haciendo un curso avanzado de **ReactJS** en **LearnThisAcademy** dónde trabajamos código limpio y el uso eficiente de la librería.
+- 🌱 Estoy haciendo un curso avanzado de **ReactJS** en **LearnThisAcademy** dónde trabajamos código limpio y el uso eficiente de la librería. Lo elegí porque entramos a fondo para entender cómo se produce la mágia por detrás a través de JavaScript.
 - ⚡ Puedes ver mi portfolio en [https://quiquesupertramp.github.io/portfolio/](https://quiquesupertramp.github.io/portfolio/)
 
 <h3 align="left">Contacta conmigo en:</h3>
@@ -12,7 +10,7 @@
 <a href="https://linkedin.com/in/quiquesupertramp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quiquesupertramp" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Tecnologías</h3>
+<h3 align="left">Tecnologías:</h3>
 <p align="left"> 
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -29,6 +27,8 @@
 
 <!--
 **QuiqueSupertramp/QuiqueSupertramp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Header](https://firebasestorage.googleapis.com/v0/b/padelstore-ebd32.appspot.com/o/quiqueSupertrampPortfolio.png?alt=media&token=e3d3302c-7d17-4769-98df-b7a6163e67ce "Portfolio")](https://quiquesupertramp.github.io/portfolio/)
 
 Here are some ideas to get you started:
 ### Hi there 👋
