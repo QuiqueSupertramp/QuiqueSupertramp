@@ -29,6 +29,6 @@
    
 <h3 align="left">Hobbies:</h3>
 <p>
-<img src="entrenador.jpg" height="230" alt="Quique Supertramp" title="Quique Supertramp">
+<img src="entrenador-ubb.jpeg" height="230" alt="Quique Supertramp" title="Quique Supertramp">
 <img src="1654596757187.jpg" height="230" alt="Quique Supertramp" title="Quique Supertramp">
 </p>
